@@ -1,0 +1,3 @@
+include ':MyHTTPsUtility'
+include ':app'
+rootProject.name = "HTTPsUtility"
